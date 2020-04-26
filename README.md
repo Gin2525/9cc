@@ -1,4 +1,4 @@
-## How to install docker
+## How to install dockerimage
 `$ docker build -t compilerbook https://www.sigbus.info/compilerbook/Dockerfile`
 
 ## How to build docker
